@@ -37,7 +37,7 @@ const App = () => {
         name: "My learning platform",
         perPageWidth: 1600,
         perPageHeight: 900,
-        pageCount: 1,
+        pageCount: 5,
       });
     };
 
